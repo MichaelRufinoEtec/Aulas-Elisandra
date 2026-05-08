@@ -1,0 +1,14 @@
+body{
+    background-color: #f808d0;
+    
+}
+
+.cabecalho{
+    background-color: black;
+    padding-right: 5px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-around;
+}
